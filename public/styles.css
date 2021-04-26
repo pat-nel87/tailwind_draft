@@ -4233,6 +4233,10 @@ video {
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/93/Cederblad_90_Gum_3_Nebula_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg');
 }
 
+.bg-trees {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/f3/Green_and_red_polar_lights_%28Unsplash%29.jpg');
+}
+
 .from-transparent {
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -35518,6 +35522,10 @@ video {
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/93/Cederblad_90_Gum_3_Nebula_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg');
   }
 
+  .sm\:bg-trees {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/f3/Green_and_red_polar_lights_%28Unsplash%29.jpg');
+  }
+
   .sm\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -66631,6 +66639,10 @@ video {
 
   .md\:bg-space {
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/93/Cederblad_90_Gum_3_Nebula_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg');
+  }
+
+  .md\:bg-trees {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/f3/Green_and_red_polar_lights_%28Unsplash%29.jpg');
   }
 
   .md\:from-transparent {
@@ -97748,6 +97760,10 @@ video {
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/93/Cederblad_90_Gum_3_Nebula_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg');
   }
 
+  .lg\:bg-trees {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/f3/Green_and_red_polar_lights_%28Unsplash%29.jpg');
+  }
+
   .lg\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -128863,6 +128879,10 @@ video {
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/93/Cederblad_90_Gum_3_Nebula_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg');
   }
 
+  .xl\:bg-trees {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/f3/Green_and_red_polar_lights_%28Unsplash%29.jpg');
+  }
+
   .xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -159976,6 +159996,10 @@ video {
 
   .\32xl\:bg-space {
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/93/Cederblad_90_Gum_3_Nebula_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg');
+  }
+
+  .\32xl\:bg-trees {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/f3/Green_and_red_polar_lights_%28Unsplash%29.jpg');
   }
 
   .\32xl\:from-transparent {
